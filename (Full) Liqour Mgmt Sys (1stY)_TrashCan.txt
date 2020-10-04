@@ -1,0 +1,12 @@
+1#Tanduay#LT Group, Inc.#10%#Rum#100#0.00#
+
+
+
+3#the bar#
+Ginebra San Miguel Inc.#5%#
+Gin#12#1110.00#
+
+
+4#Tanduay#
+Tanduay Distillers
+#90%#Rum#100#50#1#LT Group, Inc.#Rum#0.00#null#null#null#    3#LT Group, Inc.#Rum#0.00#null#null#null#   4#LT Group, Inc.#Rum#0.00#null#null#null#    3#LT Group, Inc.#Rum#0.00#null#null#null#    3#LT Group, Inc.#Rum#0.00#null#null#null#1#LT Group, Inc.#Rum#0.00#null#null#null#

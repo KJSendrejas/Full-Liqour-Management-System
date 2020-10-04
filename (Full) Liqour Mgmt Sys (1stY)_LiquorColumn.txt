@@ -1,0 +1,7 @@
+SerialNum
+Product
+Company
+AlcoholPer
+Type
+Stocks
+Price
